@@ -1,3 +1,5 @@
+//it was used as a project on SWN laboratories on Poznan University of Technology
+
 //mpicc mpi.c -o mpi
 //mpirun -np 4 mpi
 
